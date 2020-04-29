@@ -1,4 +1,4 @@
-<파이썬 기초 개념 정리>
+<목차>
 - enumerate함수: enumerate(list) -> (0,1), (1,2), (2,3) 
 
 - ragne함수: range(start, end, step)
